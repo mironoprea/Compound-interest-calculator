@@ -1,2 +1,2 @@
 #! Python3
-# Compound-Interest-Calculator 
+# Compound-Interest-Calculator Calc
