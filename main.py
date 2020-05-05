@@ -2,4 +2,4 @@
 # Compound-Interest-Calculator Calc
 
 
-#Real GUI
+#TODO: GUI
