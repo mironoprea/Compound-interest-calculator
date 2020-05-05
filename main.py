@@ -1,4 +1,8 @@
 #! Python3
 # Compound-Interest-Calculator Calc
 
-#GUI
+#TODO: Get Input
+
+#TODO: Calculate
+
+#TODO: Give Answer
